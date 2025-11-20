@@ -574,7 +574,7 @@ export const tr = {
     none: 'yok',
     yourEmail: 'E-postanızı girerek kolayca giriş yapın!',
     yourEmailPassword: 'Erişim için şimdi şifrelerinizi girin!',
-    brandName: 'Enatega',
+    brandName: 'Serveour',
     welcomeText: 'Enatega’ya Hoş Geldiniz',
     createAccountDesc:
       'En iyi restoranların keyfini çıkarın veya yakınınızdaki mağazalardan ihtiyacınız olanı teslim alın',

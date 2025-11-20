@@ -574,7 +574,7 @@ export const ro = {
     none: 'niciunul',
     yourEmail: 'Conectați-vă ușor introducând email-ul!',
     yourEmailPassword: 'Vă rugăm să introduceți parola acum pentru acces!',
-    brandName: 'Enatega',
+    brandName: 'Serveour',
     welcomeText: 'Bine ați venit la Enatega',
     createAccountDesc:
       'Bucurați-vă de cele mai bune restaurante sau obțineți ce aveți nevoie de la magazinele din apropiere, livrate',
