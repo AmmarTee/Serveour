@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <h2>Enatega Multi Vendor Food Delivery System</h2>
+  <h2>Serveour Multi Vendor Food Delivery System</h2>
   <i>The food delivery and order management system for the future.</i>
  <br/>
 <br />
@@ -53,9 +53,9 @@
 
 <br>
 
-The Enatega Multi vendor food delivery system is perfect for customers looking to deploy a readymade and easy to use food ordering platform for their own food delivery and logistics business. Just like foodpanda and ubereats, our food delivery system can incorporate multiple restaurants as well as restaurants that operate in multiple locations. With access to the admin panel and separate applications for customers and riders, you can use this solution to create your own online food ordering and order/delivery management system instantaneously.
+The Serveour Multi vendor food delivery system is perfect for customers looking to deploy a readymade and easy to use food ordering platform for their own food delivery and logistics business. Just like foodpanda and ubereats, our food delivery system can incorporate multiple restaurants as well as restaurants that operate in multiple locations. With access to the admin panel and separate applications for customers and riders, you can use this solution to create your own online food ordering and order/delivery management system instantaneously.
 
-Our solution is open source but the backend and API are proprietary, and can be obtained via paid license.
+This solution is based on the open source Enatega platform, customized and whitelabeled for Serveour.
 
 <!-- Add a horizontal rule for separation -->
 <hr/>
@@ -84,9 +84,9 @@ Our solution is open source but the backend and API are proprietary, and can be 
 
 Our food delivery system also comes with the following:
 
-- Enatega Multi vendor Customer App
-- Enatega Multi vendor Rider App
-- Enatega Multi vendor Restaurant App
+- Serveour Multi vendor Customer App
+- Serveour Multi vendor Rider App
+- Serveour Multi vendor Restaurant App
 - Customer Food Ordering Website
 - Admin Web Dashboard
 - Application ProgramInterface Server

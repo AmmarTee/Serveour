@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Enatega Multi",
-    "scheme": "enategamultivendor",
+    "name": "Serveour Customer",
+    "scheme": "serveour",
     "version": "1.1.2",
-    "description": "Enatega is a starter kit food ordering app built in React Native using Expo for IOS and Android. It's made keeping good aesthetics in mind as well keeping the best coding practices in mind. Its fully customisable to easily help you in your next food delivery project. https://market.nativebase.io/view/react-native-food-delivery-backend-app",
-    "slug": "enategamultivendor",
-    "owner": "ninjas_code",
+    "description": "Serveour is a food ordering app for customers to browse restaurants and place orders. Built with React Native using Expo for iOS and Android.",
+    "slug": "serveour-customer",
+    "owner": "serveour_team",
     "experiments": {
       "buildCacheProvider": "eas"
     },
@@ -33,7 +33,7 @@
       },
       "supportsTablet": true,
       "userInterfaceStyle": "automatic",
-      "bundleIdentifier": "com.enatega.multivendor",
+      "bundleIdentifier": "com.serveour.customer",
       "icon": "./assets/icon.png",
       "config": {
         "googleMapsApiKey": "AIzaSyCcm7_Wd7uvmC9YnYLu2JHGWPt6z1MaL1E"
@@ -56,11 +56,11 @@
       "color": "#90E36D",
       "icon": "./assets/not-icon.png",
       "androidMode": "default",
-      "androidCollapsedTitle": "Enatega Multivendor"
+      "androidCollapsedTitle": "Serveour"
     },
     "android": {
       "versionCode": 102,
-      "package": "com.enatega.multivendor",
+      "package": "com.serveour.customer",
       "userInterfaceStyle": "automatic",
       "googleServicesFile": "./google-services.json",
       "splash": {
@@ -103,13 +103,13 @@
       [
         "expo-updates",
         {
-          "username": "ninjas_code"
+          "username": "serveour_team"
         }
       ],
       [
         "expo-location",
         {
-          "locationAlwaysAndWhenInUsePermission": "Allow $Enatega Multivendor to use your location."
+          "locationAlwaysAndWhenInUsePermission": "Allow Serveour to use your location."
         }
       ],
       "expo-font",
