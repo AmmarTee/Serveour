@@ -575,7 +575,7 @@ export const nl = {
     none: 'geen',
     yourEmail: 'Log eenvoudig in door je e-mail in te voeren!',
     yourEmailPassword: 'Voer nu je wachtwoorden in voor toegang!',
-    brandName: 'Enatega',
+    brandName: 'Serveour',
     welcomeText: 'Welkom bij Enatega',
     createAccountDesc:
       'Geniet van de beste restaurants of haal wat je nodig hebt uit nabijgelegen winkels, bezorgd',

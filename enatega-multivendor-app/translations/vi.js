@@ -18,7 +18,7 @@ export const vi = {
     getStarted: 'Bắt đầu!',
     welcome:
       "Chào mừng đến với Yalla, đôi khi bạn chỉ cần tình yêu. Nhưng thỉnh thoảng ăn một chút cũng không hại gì.",
-    welcomeScreen: 'Chào mừng đến với Enatega',
+    welcomeScreen: 'Chào mừng đến với Serveour',
     loginBtn: 'Đăng nhập',
     registerBtn: 'Đăng ký',
     name: 'Tên',
@@ -574,8 +574,8 @@ export const vi = {
     none: 'Không có',
     yourEmail: 'Đăng nhập dễ dàng bằng email của bạn!',
     yourEmailPassword: 'Bây giờ nhập mật khẩu của bạn để truy cập!',
-    brandName: 'Enatega',
-    welcomeText: 'Chào mừng đến với Enatega',
+    brandName: 'Serveour',
+    welcomeText: 'Chào mừng đến với Serveour',
     createAccountDesc:
       'Thưởng thức những nhà hàng tốt nhất hoặc nhận giao hàng từ các cửa hàng gần đó bất cứ thứ gì bạn muốn',
     phoneNumber: 'Số điện thoại',

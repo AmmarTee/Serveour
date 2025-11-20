@@ -575,7 +575,7 @@ export const hi = {
     none: 'कोई नहीं',
     yourEmail: 'अपना ईमेल दर्ज करके आसानी से लॉग इन करें!',
     yourEmailPassword: 'पहुंच के लिए अब अपना पासवर्ड दर्ज करें!',
-    brandName: 'Enatega',
+    brandName: 'Serveour',
     welcomeText: 'Enatega में आपका स्वागत है',
     createAccountDesc:
       'सर्वश्रेष्ठ रेस्तरां का आनंद लें या पास के स्टोर से आवश्यक वस्तुएं प्राप्त करें, डिलीवर किया गया',

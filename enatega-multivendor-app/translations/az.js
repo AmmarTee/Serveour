@@ -18,7 +18,7 @@ export const az = {
     getStarted: 'Başla!',
     welcome:
       'Yalla-ya xoş gəlmisiniz, bəzən sizə yalnız sevgi lazımdır. Amma arada bir az yemək də zərər verməz.',
-    welcomeScreen: 'Enatega-ya Xoş Gəlmisiniz',
+    welcomeScreen: 'Serveour-ya Xoş Gəlmisiniz',
     loginBtn: 'Daxil ol',
     registerBtn: 'Qeydiyyatdan keç',
     name: 'Ad',
@@ -574,8 +574,8 @@ export const az = {
     none: 'heç biri',
     yourEmail: 'E-poçtunuzu daxil edərək asanlıqla daxil olun!',
     yourEmailPassword: 'Giriş üçün indi şifrələrinizi daxil edin!',
-    brandName: 'Enatega',
-    welcomeText: 'Enatega-ya Xoş Gəlmisiniz',
+    brandName: 'Serveour',
+    welcomeText: 'Serveour-ya Xoş Gəlmisiniz',
     createAccountDesc:
       'Ən yaxşı restoranlardan həzz alın və ya yaxınlıqdakı mağazalardan ehtiyaclarınızı çatdırın',
     phoneNumber: 'Telefon Nömrəsi',
